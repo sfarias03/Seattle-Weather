@@ -14,4 +14,4 @@ The third graph compares the total count for days with precipitation by month in
 My analysis is titled: Sam Farias - Seattle St Louis Analysis
 
 Author: Sammuel (Sam) Farias. Seattle University.
-Anyone is allowed to use this Python code.
+License: Anyone is allowed to use this Python code.
