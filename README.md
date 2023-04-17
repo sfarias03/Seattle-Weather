@@ -15,5 +15,7 @@ The second graph compares the maximum amount of precipitation recorded in each c
 The third graph compares the total count for days with precipitation by month in each city. It shows that St. Louis and Seattle have distinct seasonal patterns in their precipitation levels, with Seattle experiencing greater rainfall averages during the winter months, while St. Louis exhibits higher rainfall averages in the spring and summer months.
 My analysis is titled: Sam Farias - Seattle St Louis Analysis
 
+I communicate these results neatly in my pdf titled: Communicate Results
+
 Author: Sammuel (Sam) Farias. Seattle University.
 License: Anyone is allowed to use this Python code.
