@@ -12,3 +12,6 @@ The first graph compares the number of days without precipitation between St. Lo
 The second graph compares the maximum amount of precipitation recorded in each city for each month during the study period. It highlights the differences in average rainfall intensity on rainy days between St. Louis and Seattle.
 The third graph compares the total count for days with precipitation by month in each city. It shows that St. Louis and Seattle have distinct seasonal patterns in their precipitation levels, with Seattle experiencing greater rainfall averages during the winter months, while St. Louis exhibits higher rainfall averages in the spring and summer months.
 My analysis is titled: Sam Farias - Seattle St Louis Analysis
+
+Author: Sammuel (Sam) Farias. Seattle University.
+Anyone is allowed to use this Python code.
