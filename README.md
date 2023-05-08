@@ -20,4 +20,4 @@ My analysis is titled: Sam Farias - Seattle St Louis Analysis
 I communicate these results neatly in my pdf titled: Communicate the results
 
 Author: Sammuel (Sam) Farias. Seattle University.
-License: Anyone is allowed to use this Python code.
+License: This work is licensed under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
